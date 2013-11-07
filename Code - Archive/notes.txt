@@ -1,0 +1,7 @@
+when.me is built with Objective-C
+
+Server component is built with asp.net (all files contained within iOScode directory)
+
+Database is mySQL
+
+Places lookup requires a Google Places api account (free)

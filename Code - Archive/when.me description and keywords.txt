@@ -1,0 +1,37 @@
+App Name 
+when.me
+
+Description 
+when.me lets you create future check-ins and forecast your friends locations from your iPhone. It's a revolutionary social-local-mobile experience that connects your social networks to the "when" in your life. 
+
+When are you arriving at that new corner bistro for lunch? When is everyone meeting up for happy hour? when.me makes it easy for friends to keep up with the who's, what's, where's, and most importantly when's in your life! 
+
+when.me is all about connecting your social circles to what is happening in your life WHEN it is happening. Create and store plans based on when you will complete it or arrive. Share your plan across various social networks including facebook, twitter, and the all new when.me network. 
+
+when.me makes it fun and easy to share important life goals or just what bar you are headed to tonight. Helpful reminders and optional location features keep you and your friends in the know at all times. Attach photos to your plan to show off where you are or what you are doing. 
+
+when.me uses advanced location awareness features to make finding places and destinations a breeze. Find local places based on your GPS coordinates or search for new ones. Already there? when.me can find where you are for you to share with your friends and invite them to join you. 
+
+Check-in when you arrive or complete your goal. when.me is all about sharing where you are going to be, and what you are doing, when. Make plans to download it NOW! 
+
+Features: 
+
+* store plans locally with reminders for easy reference 
+
+* find nearby places and destinations to attach optional location information to your plan. 
+
+* easily share plans with just one tap across social networks including facebook, twitter and the all new when.me network. 
+
+* attach photos to your plan before you begin the project or after you arrive at your destination. 
+
+* countdown timer keeps you up to date on your plans progress. 
+
+* view and join your friends plans to share and earn points to compete on the leaderboard.
+What's New in this Version * Updated for iOS 7
+
+Keywords 
+goal,planning,setting,plan,meet,places,friend,check in,social,meeting,organizer,networking,solomo
+
+Support URL http://www.when.me
+Marketing URL (Optional) http://www.when.me
+Privacy Policy URL (Optional) http://www.when.me/privacypolicy.html

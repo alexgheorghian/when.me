@@ -1,0 +1,22 @@
+
+.roundBox {
+border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+
+box-shadow:   0px -3px 20px rgba(0,0,0,0.28);
+-webkit-box-shadow:   0px -3px 20px rgba(0,0,0,0.28);
+-moz-box-shadow:  0px -3px 20px rgba(0,0,0,0.28);
+}
+
+
+body {margin:0px 0px 0px 0px;color:#000000; display:block; text-align:center; font-family:arial,verdana,helvetica,sans-serif; list-style-type:disc; font-size:10pt; background: url('/images/city-dark.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        -webkit-font-smoothing: antialiased;overflow-x:hidden;
+}
+
+
+

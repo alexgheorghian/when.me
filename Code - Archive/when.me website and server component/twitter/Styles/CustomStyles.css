@@ -1,0 +1,25 @@
+﻿.tweet .from {
+    font-weight: bold;
+}
+
+.tweet .text {
+    font-size: 90%;
+}
+
+.tweet .whenWhere {
+    font-style: italic;
+}
+
+.tweet .profilePic {
+    width: 24px;
+    height: 24px;
+    float: right;
+}
+
+.noteBox
+{
+	background-color:lightyellow;
+	border:1px solid #333;
+	width:88%;
+	padding:6px;
+}
